@@ -16,6 +16,7 @@ public class UsuarioDAO {
         listaUsuarios.add(new UsuarioDTO("jose", "12345","José Perez",null));
         listaUsuarios.add(new UsuarioDTO("maria", "12345","Maria Lujan",null));
         listaUsuarios.add(new UsuarioDTO("luis", "12345","Luis Soto",null));
+        //comentario aqui.
     }
     
     public void insertarUsuario(UsuarioDTO usuario){
